@@ -1,0 +1,25 @@
+Setting up CDK 3 on host using 'C:\Users\yuvarnit\.minishift' as Minishift's home directory
+Copying minishift-rhel7.iso to 'C:\Users\yuvarnit\.minishift\cache\iso\minishift-rhel7.iso'
+Copying oc.exe to 'C:\Users\yuvarnit\.minishift\cache\oc\v3.9.14\windows\oc.exe'
+Creating configuration file 'C:\Users\yuvarnit\.minishift\config\config.json'
+Creating marker file 'C:\Users\yuvarnit\.minishift\cdk'
+Default add-ons anyuid, admin-user, xpaas, registry-route, che installed
+Default add-ons anyuid, admin-user, xpaas enabled
+CDK 3 setup complete.
+
+-- Starting profile 'minishift'
+-- Checking if requested OpenShift version 'v3.9.14' is valid ... OK
+-- Checking if requested OpenShift version 'v3.9.14' is supported ... OK
+-- Checking if requested hypervisor 'hyperv' is supported on this platform ... OK
+-- Checking if Hyper-V driver is installed ... OK
+-- Checking if Hyper-V driver is configured to use a Virtual Switch ... 
+   'Default Switch' ... OK
+-- Checking if user is a member of the Hyper-V Administrators group ... OK
+-- Checking the ISO URL ... OK
+-- Checking if provided oc flags are supported ... OK
+-- Starting local OpenShift cluster using 'hyperv' hypervisor ...
+-- Minishift VM will be configured with ...
+   Memory:    4 GB
+   vCPUs :    2
+   Disk size: 20 GB
+-- Starting Minishift VM ......
